@@ -1,0 +1,17 @@
+// created remote repo on github
+
+cd desktop
+mkdir "remote repo"
+cd "remote repo"
+git init
+git remote add origin https://github.com/theklbarnett/basic_repo
+touch index.html styles.css hello.html
+git add .
+git commit -m "initialize"
+git push origin master
+username
+password
+made this txt file
+git add.
+git commit -m "changes"
+git push origin master
